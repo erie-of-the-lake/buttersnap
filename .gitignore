@@ -1,0 +1,5 @@
+target
+*.bak
+
+# TODO: Remove once working devShell is implemented
+*.nix
