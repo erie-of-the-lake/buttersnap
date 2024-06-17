@@ -1,5 +1,6 @@
 target
 *.bak
+Cargo.lock
 
 # TODO: Remove once working devShell is implemented
 *.nix
